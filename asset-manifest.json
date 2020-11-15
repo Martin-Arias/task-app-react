@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Martin-Arias/task-app-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Martin-Arias/task-app-react/static/js/main.8b1c4b51.chunk.js",
+    "main.js.map": "/Martin-Arias/task-app-react/static/js/main.8b1c4b51.chunk.js.map",
+    "runtime-main.js": "/Martin-Arias/task-app-react/static/js/runtime-main.3f25b3ee.js",
+    "runtime-main.js.map": "/Martin-Arias/task-app-react/static/js/runtime-main.3f25b3ee.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/Martin-Arias/task-app-react/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.7fb38761.chunk.js": "/Martin-Arias/task-app-react/static/js/2.7fb38761.chunk.js",
+    "static/js/2.7fb38761.chunk.js.map": "/Martin-Arias/task-app-react/static/js/2.7fb38761.chunk.js.map",
+    "static/js/3.c50e3bf5.chunk.js": "/Martin-Arias/task-app-react/static/js/3.c50e3bf5.chunk.js",
+    "static/js/3.c50e3bf5.chunk.js.map": "/Martin-Arias/task-app-react/static/js/3.c50e3bf5.chunk.js.map",
+    "index.html": "/Martin-Arias/task-app-react/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/Martin-Arias/task-app-react/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Martin-Arias/task-app-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7fb38761.chunk.js.LICENSE.txt": "/Martin-Arias/task-app-react/static/js/2.7fb38761.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f25b3ee.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.7fb38761.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8b1c4b51.chunk.js"
+  ]
+}
